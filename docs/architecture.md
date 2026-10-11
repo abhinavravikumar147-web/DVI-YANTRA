@@ -57,7 +57,7 @@ All gas testing must be reviewed and supervised by qualified laboratory personne
 
 The diagram below shows the proposed flat-membrane test column. The Zeolite 4A coating is intended to cover the upper surface of the bagasse-derived cellulose membrane.
 
-"DVI-YANTRA membrane column" (DIAGRAM.jpeg)
+![DVI-YANTRA membrane column](DIAGRAM.jpeg)
 
 Note: This is a conceptual design. Dimensions and the final membrane-holder and gas-flow arrangement require laboratory verification before fabrication or testing.
 
