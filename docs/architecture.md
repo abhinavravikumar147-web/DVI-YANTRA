@@ -53,6 +53,15 @@ No experimental separation results or validated performance claims are reported 
 
 All gas testing must be reviewed and supervised by qualified laboratory personnel. Use suitable certified regulators, fittings, and approved equipment. Do not operate an improvised or unverified pressurized assembly.
 
+8. Conceptual Column Diagram
+
+The diagram below shows the proposed flat-membrane test column. The Zeolite 4A coating is intended to cover the upper surface of the bagasse-derived cellulose membrane.
+
+"DVI-YANTRA membrane column" (DIAGRAM.jpeg)
+
+Note: This is a conceptual design. Dimensions and the final membrane-holder and gas-flow arrangement require laboratory verification before fabrication or testing.
+
+
 8. Team
 
 - Abhinav R
