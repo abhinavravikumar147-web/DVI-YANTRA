@@ -54,3 +54,20 @@ All gas testing will be conducted under qualified laboratory supervision using c
 9. AI Usage Disclosure
 
 AI assistance was used for project planning and documentation support. The team is responsible for verifying the content and reporting actual experimental work accurately. The specific tools used and estimated extent of AI assistance will be disclosed in the final submission.
+
+Project Documentation
+
+- "System Architecture and Conceptual Column Diagram" (docs/architecture.md)
+- "Membrane Testing Plan" (docs/testing-plan.md)
+
+Conceptual Membrane Column
+
+The proposed design uses a sugarcane bagasse-derived cellulose membrane with a Zeolite 4A coating intended to cover its upper surface.
+
+See the "conceptual column diagram" (docs/DIAGRAM.jpeg) in the "docs" folder.
+
+Project status: Concept development and test planning. Experimental validation is pending; no measured CO₂ separation performance is claimed yet.
+
+Safety
+
+Any gas testing must be reviewed and supervised by qualified laboratory personnel using approved equipment and appropriate safety procedures.
