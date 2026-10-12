@@ -27,6 +27,7 @@ Where facilities are available, use:
 - XRD: Investigate crystalline phases and evidence consistent with Zeolite 4A.
 - FTIR: Examine characteristic chemical bonds and functional groups.
 - TGA: Assess thermal behaviour of the membrane material.
+- BET: Porous size and surface area calculation
 
 These methods are planned; no results are claimed at this stage.
 
